@@ -1,13 +1,13 @@
 :root {
-    --dark: #131122;
-    --mid: #1d1936;
-    --light: #282442;
+    --dark: #131313;
+    --mid: ##181818;
+    --light: #1b1b1b;
 }
 
 * {
     margin: 0;
     padding: 0;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: 'Inter',system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     color: white;
 }
 
@@ -25,7 +25,7 @@ div {
 h1 {
     font-size: 48px;
     --bg-size: 400%;
-    --color-one: #F9665E;
+    --color-one: #419bd4;
     --color-two: #799FCB;
     background: linear-gradient(
         90deg,
